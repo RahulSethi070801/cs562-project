@@ -1,0 +1,58 @@
+Post 1: Could not be more thrilled for Codeium to be inducted into theJPMorganChaseHall of Innovation. It's been a pleasure working with the team there and grateful toLori Beer,Larry Feinsmith, andSandhya Sridharanfor the vote of confidence.Lot more work for us to go out and execute on but being a great partner has always been a number one priority atCodeium.Read the full announcement from JPMorganChase:https://lnkd.in/gcsgGNa2Read the full announcement from Codeium:https://lnkd.in/gv9cJ2Ae…more
+
+Post 2: We get asked by business leaders time and time again what the ROI and value ofCodeiumand AI software tools are. We do not try to hide behind our value and try to provide realtime metrics broken down by team on how the product is generating value.…more
+
+Post 3: Really appreciateSimon KouttisandOllie Kuehnefor having me on the podcast. It was great to discuss how we think of building the organization atCodeium, not just the product but a GTM function that can scale and be great partners to our customers.…more
+
+Post 4: Codeium now has graduated from predicting your next couple lines to your next intent. This brings in new brand new experiences where the AI automatically suggests refactors and is one step towards automatically suggesting substantially larger changes.…more
+
+Post 5: Coincidental meeting with Jensen Huang at the GIT100 executive dinner where he spoke about the future of computing. Thanks for setting it upShawn K.,Lauren Schultz,Aditya Naganath.
+
+Post 6: Glad to get this one out withBhawna Singhand to see how AI is having an impact on identity and privacy.
+
+Post 7: Excited to release our first podcast on Floating Points.Bhawna Singhwas a spectacular guest - lots to learn :)
+
+Post 8: The software development lifecycle is more than just writing code in the IDE. In a world where AI generates a majority of software, it’s even more important to accelerate the code review process. Excited to share our new product Forge with everyone!…more
+
+Post 9: Sneak peek into the power of Cortex. We're graduating from the era of code generation tools being localized to an open file but instead operating over the entire codebase to make larger scale changes!
+
+Post 10: Just the beginning when you pair world class product with a customer-obsessed GTM team! Always looking for folks who are interested.
+
+Post 11: These are huge wins and I’m glad our partners atWorld Wide Technologyare able to quantify this value to the business from self-hosting the product!
+
+Post 12: Glad to be represented on Forbes as one of the preeminent AI startups. We're building a world class AI engineering and go-to-market team and if that sounds exciting, join us -https://lnkd.in/gXS4_6sZhttps://lnkd.in/gPY5izps…more
+
+Post 13: The most common question we ask is how can we make generations particularly tuned to an enterprises' data. We wanted to add some clarity here about personalization and the value of context awareness using retrieval augment generation and finetuning. They each have their place but the noise makes it so that folks may believe they want a technology like RAG or finteuning rather than a solution that actually works for them.…more
+
+Post 14: Latency is a critical aspect to successful products. Since it's make or break to the usability ofCodeium, we don't just outsource this with a third-party API - we train our own models and optimize performance all the down to the network and GPU kernels to save every millisecond.…more
+
+Post 15: Commitment to work well with my favorite databaseMongoDB
+
+Post 16: Codeium now accelerates development in the terminal with Termium. Terminal usage has a lot of boilerplate and Termium now just reads my mind. It has also helped in using commands with hard to remember arguments.We're still in alpha but will improve rapidly! This is just the beginning - we'll soon be able to automatically fix code in the IDE based on errors in the terminal.…more
+
+Post 17: If a metric exists, it will be juiced sometimes even unintentionally. Metrics like acceptance rate are not good since it doesn't capture all the times you did not show suggestions or the length of the suggestion (it is not useful if you only ever show 1 character suggestions).We try to take this into account and showcase metrics that align with real value, the number of characters accepted per keystroke and percent code written. AtCodeium, we relentlessly optimize to make sure we are best in class at this, optimizing every millisecond of latency and making sure we have the most accurate suggestions on every keystroke.…more
+
+Post 18: Thanks for sharingTravis Vigil. Glad to be working with Dell to build out the future of secure, on-prem GenAI software capabilities withCodeium.
+
+Post 19: Really excited to be able to work to bring the best generative AI capabilities for software to on-prem hardware!
+
+Post 20: Good conversation where I shared how we approached building Codeium and how we think about feature development internally.
+
+Post 21: Strong step forward for us and our commitment to taking security seriously for our managed cloud offering as well.
+
+Post 22: Glad to be doing an integration with Databricks, where I interned 6 years ago
+
+Post 23: Great comparison here fromAnshul Ramachandran- tried to be as fair as possible but couldn’t get away from the fact that you should always useCodeium
+
+Post 24: Check out how we worked with AWS and made it both simple and efficient to deploy models on Inferentia.
+
+Post 25: Really excited to share Codeium (codeium.com), a product we’ve been working on at Exafunction! Internally, we’ve been massive fans of Copilot for a while and believe in the future of code assistance tech. We’re now launching out of our beta for a free-forever code completion tool. We’ve gotten feedback that it’s faster than Copilot and would love if you could try it out.…more
+
+Post 26: Exafunction is hiring our first AE! We’re building a platform to revolutionize deep learning workloads, and we’re looking for someone to work with us on our outbound sales motion. You’ll be working directly with our founding team, and you’ll have the opportunity to make an outsized business impact and grow your role extremely fast.If this interests you and you’re experienced in pipeline generation and cold outreach for B2B outbound sales on a technical product, feel free to reach out to me on LinkedIn or atvarun@exafunction.com.…more
+
+Post 27: As some of you know,Douglas Chen, the team, and I have been working on building a new company for the last year. Today, we are thrilled to announce our series A and seed financing. We are working on a very hard problem, but an important one too that can help accelerate some cutting edge industries. We'd love for you to come join us in the early stages of our journey!…more
+
+Post 28: Tony Jianghashtag#KudosYou are such an invaluable member of the teamhashtag#TeamPlayerhashtag#invaluablehashtag#member
+
+Post 29: Anshul Ramachandranhashtag#KudosThe pride you take in your work is truly inspiringhashtag#GoingAboveAndBeyondhashtag#inspiration
+
